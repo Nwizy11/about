@@ -12,6 +12,23 @@
         padding: 20px 50px;
         z-index: 1000;
     }
+     .content{
+         flex-direction: column;
+     }
+     .services .content .serviceBx{
+         margin: 10px;
+     }
+     .update .content .updateBx{
+         width: 100%;
+         padding: 10px;
+     }
+     .contact .content .formBx{
+         width: 100%;
+     }
+     .w50{
+         min-width: 60%;
+         margin-top: 20px;
+     }
     .menu{
         position: fixed;
         top: 75px;
